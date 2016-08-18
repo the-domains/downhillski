@@ -1,4 +1,3 @@
-layout_spectrum: 0.581577809760347
 typography_spectrum: 0.023315173340961337
 color:
   brandStrength: 0.262086232425645
@@ -11,4 +10,6 @@ color:
     - '#A5ACC6'
     - '#7F120E'
     - '#CD2924'
+layout_spectrum: 0.581577809760347
 name: downhill.ski
+title: Downhill Skiing News
